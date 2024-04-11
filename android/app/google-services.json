@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793811082292",
+    "firebase_url": "https://plandcorpapp-default-rtdb.firebaseio.com",
+    "project_id": "plandcorpapp",
+    "storage_bucket": "plandcorpapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793811082292:android:d26768583aa05414d17e61",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793811082292-lp7kq9n24jm3r3lhn9rdt2a3hper3un1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIeQSbOc6Y6QCO2KB0o7JVvClnqqYCho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793811082292-lp7kq9n24jm3r3lhn9rdt2a3hper3un1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
