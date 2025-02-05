@@ -36,7 +36,7 @@ class _mainScreenState extends State<mainScreen> {
   String adminText = 'Admin Login';
   String addTitleText = 'Add Title';
   String selectedTitleNumber = 'Select Title';
-  final adminPassword = 'FinBear1754?';
+  final adminPassword = '';
 
   //reference hive box
   final _myBox = Hive.box('box');

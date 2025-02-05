@@ -6,8 +6,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'firebase_options.dart';
 
-const apiKey = 'AIzaSyDuIeQSbOc6Y6QCO2KB0o7JVvClnqqYCho';
-const projectId = 'plandcorpapp';
+const apiKey = '';
+const projectId = '';
 
 Future<void> main() async {
 
